@@ -1,0 +1,25 @@
+{
+  "name": "proyecto-express",
+  "version": "1.0.0",
+  "description": "api usando express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hebert-Alvarez/Proyecto-express.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Hebert Manuel Alvarez Estrada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hebert-Alvarez/Proyecto-express/issues"
+  },
+  "homepage": "https://github.com/Hebert-Alvarez/Proyecto-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
